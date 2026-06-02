@@ -56,8 +56,13 @@ I am currently focused on WordPress Development and contributing to related prod
 [<img alt="Toptal" src="https://img.shields.io/badge/VSCode Marketplace-23A8EF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://marketplace.visualstudio.com/publishers/themexplosion)
   
 
-## Github Stats 📈
+## AI & Agentic Workflows 🤖
 
-[//]: # (![Arafat's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=arafatjamil01&show_icons=true&theme=radical&#41;)
+I actively use and integrate AI tools into my daily development workflow — from writing and reviewing code to automating tasks end-to-end.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatjamil01&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/arafatjamil01/github-readme-stats)
+<img alt="Claude" src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img alt="MCP" src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5A67D8?style=for-the-badge&logoColor=white"/> <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+
+- Building and orchestrating **AI agents** with Claude and the Anthropic API
+- Connecting tools and services via **MCP (Model Context Protocol)** servers
+- Using **Claude Code** as an AI-powered CLI for real coding tasks
+  
